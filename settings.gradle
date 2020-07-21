@@ -1,2 +1,3 @@
+include ':TriangleImageView'
 include ':app'
 rootProject.name = "TriangleImageview"
