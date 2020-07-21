@@ -2,6 +2,7 @@
 [![Developer](https://img.shields.io/badge/developer-sina%20dalvand-orange)](https://github.com/sinadalvand)
 [![Lisense](https://img.shields.io/badge/License-Apache%202-lightgrey.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Download](https://api.bintray.com/packages/sinadalvand/maven/TriangleImageView/images/download.svg?version=1.0.1) ](https://bintray.com/sinadalvand/maven/TriangleImageView/1.0.1/link)
+
 <img src="https://github.com/sinadalvand/TriangleImageView/blob/master/art/logo.png" width="70"/>
 
 Triangle ImageView with custom corner radius and animation switch
