@@ -24,6 +24,19 @@ implementation 'ir.sinadalvand.libs:TriangleImageView:1.0.1'
 </dependency>
 ```
 
+### Xml Usage
+```
+
+ <ir.sinadalvand.libs.triangleimageview.TriangleImageView
+        android:id="@+id/image_triangle"
+        android:layout_width="30dp"        // fix size or wrap_content or another parameters
+        android:layout_height="30dp"       // fix size or wrap_content or another parameters
+        android:adjustViewBounds="true" 
+        android:src="@drawable/poster"     // set image as used before 
+        />
+
+```
+
 for set image you can use normal method that you used before and also compatible whit Glide or Picasso
 
 ### set image radius :
